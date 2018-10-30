@@ -8,7 +8,7 @@
     "theme",
     "django"
   ],
-  "repository": "https://github.com/atom/wasco-syntax",
+  "repository": "https://github.com/vasjapavlovic/atom-wasco-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
